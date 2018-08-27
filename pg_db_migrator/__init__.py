@@ -1,0 +1,1 @@
+from .migrator import do_migration
